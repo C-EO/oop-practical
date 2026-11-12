@@ -2,10 +2,16 @@
  * CSC 1102: Structured and Object-Oriented Programming - Practical Exam Project
  * Simple Banking System
  *
- * Group name   : <GROUP NAME>
- * Group leader : <NAME>
- * Members      : <NAME, NAME, NAME ...>
- * GitHub link  : <LINK>
+ * Group name   : Group 24
+ * Group leader : Lubega Michael
+ * Members      :
+ *   Name               Student No.   Registration No.
+ *   Sebalemba Dennis   2600726046    26/U/26046/PS
+ *   Lubega Michael     2600703548    26/U/03458/PS
+ *   Muyonjo Solomon    2600703581    26/U/03581/PS
+ *   Rob Wilbert        2600726537    26/X/26537/PS
+ *   Ssenfuma Emmanuel  2600703644    26/U/03644/PS
+ * GitHub link  : https://github.com/c-eo/oop-practical
  */
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;

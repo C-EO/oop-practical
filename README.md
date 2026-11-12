@@ -2,8 +2,16 @@
 
 A small Java Swing application for managing bank accounts. It was built for the CSC 1102 (Structured and Object-Oriented Programming) practical exam project.
 
-**Group:** `<GROUP NAME>`
-**Members:** `<NAME, NAME, NAME ...>`
+**Group:** `Group 24`
+**Members:**
+
+| Name | Student Number | Registration No. |
+|---|---|---|
+| Sebalemba Dennis | 2600726046 | 26/U/26046/PS |
+| Lubega Michael | 2600703548 | 26/U/03458/PS |
+| Muyonjo Solomon | 2600703581 | 26/U/03581/PS |
+| Rob Wilbert | 2600726537 | 26/X/26537/PS |
+| Ssenfuma Emmanuel | 2600703644 | 26/U/03644/PS |
 
 ## Features
 
